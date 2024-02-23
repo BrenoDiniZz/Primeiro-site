@@ -1,0 +1,16 @@
+div.jorge {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat';
+    font-size: 22px;
+}
+
+button.jorge {
+    background: yellow;
+    border-radius: 10px;
+}
+
+button.jorge:hover {
+    background: blue;
+    color: white;
+}
